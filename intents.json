@@ -38,7 +38,7 @@
          ],
          "tag": "station2",
          "responses": [
-            "Station Nummer zwei kann auch etwas machen. Ich weiß zwar nicht was, aber es ist etwas, versprochen!"
+            "Station Nummer zwei kann auch etwas machen. Ich weiss zwar nicht was, aber es ist etwas, versprochen!"
          ]
       },
 	  {
@@ -53,7 +53,7 @@
          ],
          "tag": "station3",
          "responses": [
-            "Station Nummer drei kann ebenfalls etwas machen. Ich weiß zwar immer noch nicht was, aber es ist etwas!"
+            "Station Nummer drei kann ebenfalls etwas machen. Ich weiss zwar immer noch nicht was, aber es ist etwas!"
          ]
       }
    ]
